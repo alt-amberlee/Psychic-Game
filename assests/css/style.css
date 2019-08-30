@@ -1,0 +1,14 @@
+html {
+    height: 100%;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Arial", "Helvetica Neue", Helvetica, sans-serif;
+}
+
+.containter {
+    width: 100%;
+    max-width: 950px;
+    margin: 0 auto;
+}
